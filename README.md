@@ -1,3 +1,5 @@
 # Codeforces-1325A-EhAb-AnD-gCd
-Problem  
+### Problem  
 ![](capture.png)
+### Mathematical Explanation
+![](ep.png)
